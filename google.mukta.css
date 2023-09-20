@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Mukta";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/mukta/v12/iJWHBXyXfDDVXbFqj1ma.ttf)
+  format("truetype");
+}
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf)
+  format("truetype");
+}
